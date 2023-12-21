@@ -15,6 +15,8 @@ print'ข้อมูล';
 echo("This is echo Hello , World");
 echo 'Hello, PHP';
 
+echo'<br>';
+
 print("This is print Hello , World");
 print 'Hello, PHP';
 
